@@ -41,7 +41,7 @@
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.5",
     "socket.io": "^4.6.1",
-    "socket.io-client": "^4.6.1",
+    "socket.io-client": "^4.8.0",
     "srt-webvtt": "^2.0.0",
     "stripe": "^8.222.0",
     "ts-node": "^10.9.2",
